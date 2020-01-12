@@ -182,7 +182,7 @@ and (max-width: 10000px){
   overflow: hidden;
 }
 @media screen and (max-width: 562px)
-and (min-width: 333px){
+and (min-width: 369px){
   .prod{
     width: 44%!important;
   }
@@ -193,7 +193,7 @@ and (min-width: 0){
     width: 95%!important;
     float: none;
     margin: auto;
-    margin-bottom: 100px;
+    margin-bottom: 80px!important;
   }
 }
 .prod{
