@@ -187,7 +187,7 @@ and (min-width: 333px){
     width: 44%!important;
   }
 }
-@media screen and (max-width: 333px)
+@media screen and (max-width: 369px)
 and (min-width: 0){
   .prod{
     width: 95%!important;
